@@ -1,7 +1,7 @@
 @echo off
-echo "    SoftwarePortable Version 1.1 Testing          "
-echo "__________________________________________________"
-echo "  Copyright albreleo and Blaurin on GitHub 2020  "
+echo "    SoftwarePortable Version 1.1 Testing"
+echo "___________________________________________"
+echo "  Copyright albreleo and Blaurin on GitHub 2020 "
 echo "Options:"
 echo "Suitable for: Lightweight Software"
 echo "1: Copy the chosen Software to an external Device without deleting all the original files" 
